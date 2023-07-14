@@ -30,7 +30,7 @@
 	"dependencies": {
 		"@rollup/plugin-commonjs": "^25.0.0",
 		"@rollup/plugin-node-resolve": "^15.0.0",
-		"ethers": "^6.0.0",
+		"ethers": "5.7.2",
 		"rimraf": "5.0.0",
 		"rollup": "^2.75.6"
 	},
