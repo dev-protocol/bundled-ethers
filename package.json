@@ -41,7 +41,7 @@
 		"eslint-config-prettier": "9.1.0",
 		"eslint-plugin-functional": "4.4.1",
 		"husky": "8.0.3",
-		"prettier": "3.2.4",
+		"prettier": "3.2.5",
 		"typescript": "5.3.3"
 	},
 	"repository": "git+https://github.com/dev-protocol/template-repos-ts.git",
