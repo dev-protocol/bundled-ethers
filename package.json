@@ -42,7 +42,7 @@
 		"eslint-plugin-functional": "4.4.1",
 		"husky": "8.0.3",
 		"prettier": "3.6.2",
-		"typescript": "5.9.2"
+		"typescript": "5.9.3"
 	},
 	"repository": "git+https://github.com/dev-protocol/template-repos-ts.git",
 	"bugs": {
